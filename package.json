@@ -1,0 +1,6 @@
+{
+	"name":"node_post",
+	"dependencies":{
+		"express":"latest",
+	}	
+}
